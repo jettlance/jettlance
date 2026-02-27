@@ -26,17 +26,17 @@
 
   <h3 align="center">👤 About Me </h3>
 
-  📊 Data-focused Computer Science graduate
+🎓 Recent Computer Science graduate with extensive hands-on experience across multiple technical tools and analytical platforms
 
-🧹 Clean and analyse datasets using Python (pandas, NumPy) and SQL
+🚀 Enthusiastic about emerging technologies, AI advancements, and data-driven innovation
 
-📈 Create clear visual insights with Matplotlib and Tableau
+🎮 Analytical thinker who enjoys strategic problem-solving, both in technology and gaming
 
-📉 Apply regression and statistical analysis to identify trends
+📚 Strong willingness to continuously improve and adapt
 
-🤖 Experience building and evaluating ML models with scikit-learn
+💼 Hardworking and disciplined, with experience managing academic, technical, and creative commitments
 
-🔎 Passionate about transforming raw data into meaningful insights
+🎹 Pianist combining technical precision with creativity and teamwork
 
 
 
