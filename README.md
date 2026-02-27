@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Hello there, I'm Jettlance
-  <img src="./bh187-spongebob.gif" width="35px" style="vertical-align: middle; margin-left: 500px;">
+  <img src="./bh187-spongebob.gif" width="100px" style="vertical-align: middle; margin-left: 5px;">
 </h1>
 
 <p align="center">
