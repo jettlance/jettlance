@@ -2,7 +2,7 @@
 <h1 align="center">Hello World, I'm Jett 👋</h1>
 
 <p align="center">
-  SOC Analyst | Cybersecurity | Python | SIEM | Threat Intelligence
+  Computer Science Graduate | Cybersecurity | Python | SIEM | Threat Intelligence
 </p>
 
 <p align="center">
