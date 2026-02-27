@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C/C++, JavaScript, SQL  
+**Languages:** Python, Java, C/C++, JavaScript, SQL, Dr.Racket 
 **Frameworks & Tools:** React, Node.js, TensorFlow  
 **Data & ML:** pandas, NumPy, scikit-learn, Matplotlib  
 **Developer Tools:** Git, Linux (Ubuntu), VS Code  
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/racket/racket-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+
 </p>
 
 
