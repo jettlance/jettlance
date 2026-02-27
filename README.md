@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hello there, I'm Jettlance</h1>
 
- <img src="./bh187-spongebob.gif" width="100px" style="vertical-align: middle; margin-left: 5px;">
-
 <p align="center">
   BSc Computer Science Graduate | Machine Learning | Data Analytics | Software Engineering
 </p>
+
+ <img src="./bh187-spongebob.gif" width="100px" style="vertical-align: middle; margin-left: 5px;">
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
