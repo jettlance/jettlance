@@ -25,19 +25,22 @@
   </p>
 
   <h3 align="center">👤 About Me </h3>
+  
+  <div align="center">
 
-🎓 Recent Computer Science graduate with extensive hands-on experience across multiple technical tools and analytical platforms
+  🎓 Recent Computer Science graduate with extensive hands-on experience across multiple technical tools and analytical platforms  
 
-🚀 Enthusiastic about emerging technologies, AI advancements, and data-driven innovation
+  🚀 Enthusiastic about emerging technologies, AI advancements, and data-driven innovation  
 
-🎮 Analytical thinker who enjoys strategic problem-solving, both in technology and gaming
+  🎮 Analytical thinker who enjoys strategic problem-solving, both in technology and gaming  
 
-📚 Strong willingness to continuously improve and adapt
+  📚 Strong willingness to continuously improve and adapt  
 
-💼 Hardworking and disciplined, with experience managing academic, technical, and creative commitments
+  💼 Hardworking and disciplined, with experience managing academic, technical, and creative commitments  
 
-🎹 Pianist combining technical precision with creativity and teamwork
+  🎹 Pianist combining technical precision with creativity and teamwork  
 
+  </div>
 
 
 
