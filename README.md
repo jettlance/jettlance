@@ -1,5 +1,8 @@
 
-<h1 align="center"> Hello there, I'm Jettlance </h1>
+<h1 align="center"> 
+  Hello there, I'm Jettlance 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 <p align="center">
   BSc Computer Science Graduate | Machine Learning | Data Analytics | Software Engineering
