@@ -5,7 +5,7 @@
   BSc Computer Science Graduate | Machine Learning | Data Analytics | Software Engineering
 </p>
 
-                                                    ## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
