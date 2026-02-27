@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World, I'm Jett 👋</h1>
+<h1 align="center">Hello there, I'm Jettlance  👋</h1>
 
 <p align="center">
   Computer Science Graduate | Cybersecurity | Python | SIEM | Threat Intelligence
