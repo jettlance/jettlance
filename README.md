@@ -5,6 +5,4 @@
   Computer Science Graduate |  
 </p>
 
-<p align="center">
-  Python Automation | Log Analysis | Runbooks
-</p>
+
