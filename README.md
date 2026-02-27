@@ -5,13 +5,7 @@
   BSc Computer Science Graduate | Machine Learning | Data Analytics | Software Engineering
 </p>
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, C/C++, JavaScript, SQL, Dr.Racket 
-**Frameworks & Tools:** React, Node.js, TensorFlow  
-**Data & ML:** pandas, NumPy, scikit-learn, Matplotlib  
-**Developer Tools:** Git, Linux (Ubuntu), VS Code  
-**Data Visualisation:** Tableau, Excel  
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -21,5 +15,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 </p>
+
+**Languages:** Python, Java, C/C++, JavaScript, SQL, Dr.Racket 
+**Frameworks & Tools:** React, Node.js, TensorFlow  
+**Data & ML:** pandas, NumPy, scikit-learn, Matplotlib  
+**Developer Tools:** Git, Linux (Ubuntu), VS Code  
+**Data Visualisation:** Tableau, Excel  
+
+
 
 
