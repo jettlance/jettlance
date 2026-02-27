@@ -19,14 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
 
+  </p>
 
-</p>
 
-**Languages:** Python, Java, C/C++, JavaScript, SQL, Dr.Racket 
-**Frameworks & Tools:** React, Node.js, TensorFlow  
-**Data & ML:** pandas, NumPy, scikit-learn, Matplotlib  
-**Developer Tools:** Git, Linux (Ubuntu), VS Code  
-**Data Visualisation:** Tableau, Excel  
+
 
 
 
