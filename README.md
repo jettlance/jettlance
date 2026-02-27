@@ -26,6 +26,18 @@
 
   <h3 align="center">👤 About Me </h3>
 
+  📊 Data-focused Computer Science graduate
+
+🧹 Clean and analyse datasets using Python (pandas, NumPy) and SQL
+
+📈 Create clear visual insights with Matplotlib and Tableau
+
+📉 Apply regression and statistical analysis to identify trends
+
+🤖 Experience building and evaluating ML models with scikit-learn
+
+🔎 Passionate about transforming raw data into meaningful insights
+
 
 
 
